@@ -1,0 +1,10 @@
+{
+  "name": "DiscordBot",
+  "version": "0.0.0",
+  "description": "Discord Bot",
+  "main": "bot.js",
+  "author": "YOURNAME HERE",
+  "dependencies": {
+    "discord.io": "github:woor/discord.io#gateway_v6"
+  }
+}
